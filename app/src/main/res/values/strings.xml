@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="txtTitle">Tools Required for Assembly</string>
+    <string name="btnDresser">Required Dresser Tools</string>
+    <string name="btnBike">Required Bike Tools</string>
+    <string name="btnDeck">Required Deck Tools</string>
+    <string name="title_activity_dresser">DresserActivity</string>
+    <string name="txtDrsrTitle">Tools Required to Assemble Dresser</string>
+    <string name="txtBikeTitle">Tools Required to Assemble Bicycle</string>
+    <string name="txtDeckTitle">Tools Required to Assemble Deck</string>
+</resources>
